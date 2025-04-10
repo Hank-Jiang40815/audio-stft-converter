@@ -11,7 +11,7 @@ import sys
 import argparse
 from pathlib import Path
 from datetime import datetime
-from audio_stft_converter import STFTProcessor
+from audio_stft_converter.stft_processor import STFTProcessor
 from audio_stft_converter.analysis import analyze_reconstruction
 
 def main():
