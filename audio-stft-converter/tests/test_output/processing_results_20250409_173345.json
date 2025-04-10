@@ -1,0 +1,11 @@
+{
+  "timestamp": "20250409_173345",
+  "processed_files": [
+    "tests/test_data/test_sine_wave.wav"
+  ],
+  "parameters": {
+    "n_fft": 2048,
+    "hop_length": 512,
+    "win_length": 2048
+  }
+}
